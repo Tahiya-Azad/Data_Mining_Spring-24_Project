@@ -1,1 +1,1 @@
-# Data_Mining_Spring-24_Project
+This project focuses on deriving 10 key findings and predictions from the Churn dataset available at the UCI Repository of Machine Learning Databases, University of California, Irvine. The analyses include techniques and visualizations such as Decision Trees, Naive Bayes, Bar Plots, Pie Charts, Box Plots, and more. This individual project for Data Mining class, was executed using the R programming language.
